@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "siri-test-project",
+  "private_key_id": "b1caa30de3d1e4e3149bcbcc9761cb32b74f37b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrbjS0433EGRwW\nR6plU9jVQdBxhA4JYAS1yI7qDNn2J0DWDhRncjV2bnWPhxJrqiXC21HiXX9YW606\nFpckb0PV6WD+oir8U1ZANBNzLMtwCty18dnH3LbdkSUOaplBxjNyp75Kk4Qo0FEY\n2qePchmq5IX4mqDK3TRB3MEhzirPN9LY8zNVuVDfwPW3WG4V60n4hOECJdZ/eZ+c\nY3j/bLiCaNznKWSa9wQpMKu8HZsCnxz4sSqCoEetIvztFN9m6eb5NQt3VXxsoflF\n+BnlqqvNcy/nWmBYEeLoiY+1N+dqWeMZR2YGpXDm07qUIeKKG/urbauR5JBzEWTl\neW0CeRTtAgMBAAECggEAAnQfWP9wi1/4oPEBpVWf4t2ASD+lm8i+CIQIV507eWRy\nbx3geOKPlVRbZmR+hP/4bmOJNn40FmWpgw1TuHfHNsaSVtKnXtkqgNy98oYPm1js\nc8Y0YcHs9BrhtuUbsG9PyTJRbOvTlmn03zAx+cGeUG3Y5QgBiSXFW7P3J661uiWC\nY29gMx0zl8iBaWtH7WqxYyc1Wnp03vEMVwH5unqkVannXJk684LyHinJhydqc4zJ\nrrZHV5U3qgc0FOibU/ibC8eEo+gl+dMh7J0pym1BLqEOy5KO5Ts4zTfSnn0xXVOy\n2/lDji0mUd/H09LiFCXzhKFt+NWMamKDD0PofxOgAQKBgQDdpTyUDnMlMOr+dfDU\nmTZVeZeRTnN2rIDFZlG/aG3CyPYzgNd6BDNzt2DJ0CmwRXWjEYk7GTEuSxzbfpBm\neGU30SiHNcivbQn/SiDWL6ZgGy/wZomAFv+M8iv2a791UtS85psljdDl8KoFxw4g\nOZpSwxrt/1JbJh4Xgv3QR8147QKBgQDGAHfzNFVC4qn46eGAMB6hBiIeqWCs876k\ntBKdoLhS+uJHjoz9fa7sY6VkHwEf98ZXpsHZEfJOiRZ509syXEAtJBLzw8qDUSrg\nZfu5uY1oqF8+PU7WfIlSBXqSptxf7+3mbH+fDjLWjeEw0LRDZclBlaRzz9YY71u1\ns4yZL3KMAQKBgQCVfMFLticw2TpU3uTL7n23zmdMSFYVnyjGekj+SIdmzTVH7Ujm\n8XhmPjLYSj4jteUuU0B0DHygFWbkHwtzIRZbPAUSlFLDBk6s0Kku7DpRLWT6xZ1N\nN7WpsRe3flpF3dS/huTywiA3RUbW2LcNQuxzj0VVaVN5SE8ZWm6nEBZjzQKBgHUP\nbdsxg37ptwfcbl91E4ars5xhEzDtYjbJ53+dt5wHi6Q2mRB9L9++AdgxpF6cBH1p\nr42AWLspvUoFgMBDXgXSIApSJPaCFFFaufpRw1KuyLBpWqTgN+dwKcluMTffB82F\nM+Z7ZH8InqxXl1uJX/UQXYvCwpc3XAcOwf8G2DgBAoGBAJ8Bh4u0YvY7OPZ8pS0J\nVaICA3x3o+rkC8s6RltwNQJVhnlMpqqpfbmNK8ffMMI+H9rPke7R2pqUtoVT8sWo\n6AenmloaNU9dSRO4/kzbYpiV8pEvbqzN8NgC6t2Zha+Hiqdi5qAxDw/iLqe1drpC\nSfImdQnH4K5eBdJsW7i/at98\n-----END PRIVATE KEY-----\n",
+  "client_email": "packer-service-account-425@siri-test-project.iam.gserviceaccount.com",
+  "client_id": "113890314320466064664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/packer-service-account-425%40siri-test-project.iam.gserviceaccount.com"
+}
