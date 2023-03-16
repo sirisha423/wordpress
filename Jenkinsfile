@@ -1,6 +1,7 @@
 pipeline{
     agent any
     tools {
+        git 'git'
 }
    stages{
 //         stage('creds test'){
