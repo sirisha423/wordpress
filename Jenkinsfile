@@ -2,7 +2,7 @@ pipeline{
     agent any
     tools {
 }
-// stages{
+   stages{
 //         stage('creds test'){
 //             steps{
 //                 withCredentials([file(credentialsId: 'gcp-auth-jenkins', variable: '')]) {
@@ -15,7 +15,7 @@ pipeline{
                 git branch: 'master', credentialsId: '0093fc89-b721-4ff0-8311-3e369d1e56fc', url: 'https://github.com/sirisha423/wordpress.git'
             }
         }
-  stage('Build WordPress') {
+        stage('Build WordPress') {
             steps {
                 // sh 'npm install'
                 // sh 'npm run build'
@@ -25,7 +25,8 @@ pipeline{
         stage('Upload to Cloud Storage') {
             steps {
 //                 withCredentials([googleServiceAccount(credentialsId: 'gcp-creds', scope: ['https://www.googleapis.com/auth/cloud-platform'])]) {
-                    sh "gsutil cp -r wordpress.tar gs://your-bucket-name/wordpress.tar"
+                    sh "gsutil cp -r wordpress.tar gs://wordpress-storage2023/wordpress.tar"
                 }
             }
         }
+}
